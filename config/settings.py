@@ -25,7 +25,7 @@ SECRET_KEY = '$^n2*2-f(c#-*%rmmfe*6(@z@qsf)_all5=8g=3zlgv1br3q0d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['.herokuapp.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
